@@ -1,4 +1,5 @@
 ### I don't know shit.
+  - **Discord: `Hentai#4902`**
 
 ##### Currently Learning:
   - <img align="center" alt="Javascript" width="25px" src="https://i.imgur.com/3u1wzwE.png" />
