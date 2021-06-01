@@ -1,6 +1,5 @@
 ### I don't know shit.
-  - **Discord: `Hentai#4902`**
-
+  - <img title="Discord Tag" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="30" height="30"> <a href="https://discord.com/users/722647978577363026" target="_blank">Hentai#4902</a>
 ##### Currently Learning:
 JavaScript, LuaU <- Roblox Custom Lua
 ### 📈GitHub Stats
