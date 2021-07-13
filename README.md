@@ -17,22 +17,6 @@
   <a href="https://code.visualstudio.com/download"><img src="https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico" width="50" height="50"></a>
 </div>
 
-<style>
-  a {
-    padding: 5px;
-  }
-
-  .LanguagesTools img {
-    width: 50px;
-    height: 50px;
-    transition: 0.5s ease;
-  }
-
-  .LanguagesTools img:hover {
-    width: 75px;
-    height: 75px;
-  }
-</style>
 
 ---
 
