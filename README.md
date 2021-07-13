@@ -3,7 +3,9 @@
 ### Contact:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-Hentai%234902-blue?style=for-the-badge&logo=appveyor?link=https://discord.com/users/722647978577363026&link=https://discord.com/users/722647978577363026" height="40"/>
+  <a href="https://discord.com/users/722647978577363026">
+    <img src="https://img.shields.io/badge/Discord-Hentai%234902-blue?style=for-the-badge&logo=appveyor?link=https://discord.com/users/722647978577363026&link=https://discord.com/users/722647978577363026" height="40"/>
+  </a>
 </p>
 
 ---
