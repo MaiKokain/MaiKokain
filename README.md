@@ -1,12 +1,12 @@
 ### I don't know shit.
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/722647978577363026">
-    <img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="100" height="100"/>
+    <img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="50" height="50"/>
   </a>
 </p>
   
-<!--   - <img title="Discord Tag" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="30" height="30"> [Hentai#4902](https://discord.com/users/722647978577363026) -->
+
 ##### Currently Learning:
 Javascript, LuaU <- Roblox Custom Lua
 ### 📈GitHub Stats
