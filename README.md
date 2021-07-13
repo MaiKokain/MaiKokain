@@ -1,4 +1,4 @@
-### I don't know shit.
+# I don't know shit.
 
 <p align="left">
   <a href="https://discord.com/users/722647978577363026">
