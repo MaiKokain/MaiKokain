@@ -13,7 +13,7 @@
 ## Languages And Tools
 
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50" height="50"></a>
-<a href="https://code.visualstudio.com/download"><img src="https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico" width="50" height="50" padding="5"></a>
+<a href="https://code.visualstudio.com/download"><img src="https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico" width="50" height="50"></a>
 
 
 ---
