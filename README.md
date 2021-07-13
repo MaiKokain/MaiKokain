@@ -11,7 +11,7 @@ I don't know shit.
 
 ### Languages And Tools
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="30px">
+<img align="left" src="https://camo.githubusercontent.com/973a118e690e810599bc0b9b3fcec3a314505b412e307e5eab8ff8a2211ddc14/68747470733a2f2f692e696d6775722e636f6d2f74594c465a42682e706e67" width="30px">
 <img align="left" src="https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico" width="30px"> <br />
 
 ---
