@@ -11,8 +11,8 @@ I don't know shit.
 
 ### Languages And Tools
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="30px">
-<img align="left" src="https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico" width="30px"> <br />
+<img align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="30px">
+<img align="center" src="https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico" width="30px"> <br />
 
 ---
 
