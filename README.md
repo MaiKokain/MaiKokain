@@ -1,22 +1,51 @@
-I don't know shit.
-
-### Contact
+###### I Don't Know Shit
 
 <p align="center">
-  <a href="https://discord.com/users/722647978577363026">
-    <img src="https://discord.c99.nl/widget/theme-3/722647978577363026.png" />
-  </a>
+    <br />
+    <details>
+        <summary align="center">&#9776; Details</summary>
+        <h2></h2>
+        <br />
+        <details>
+          <summary align="center">Languages And Tools</summary>
+          <div align="center">
+              <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+              <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord">
+              <img src="https://img.shields.io/badge/Mongo%20DB%20-%23323330.svg?&style=for-the-badge&logo=mongodb">
+              <img src="https://img.shields.io/badge/VS Code-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+            <div />
+        </details>
+        <h2></h2>
+        <details>
+          <summary align="center">Contact</summary>
+          <p align="center">
+              <samp>
+                  &#128172;
+                  <a href="" target="_blank">Discord</a>
+              </samp>
+          </p>
+        </details>
+        <h2></h2>
+        <p align="center">
+            <a href="httpS://discord.com/users/722647978577363026">
+                <img
+                src="https://lanyard-profile-readme.vercel.app/api/722647978577363026"m
+                alt="Discord Profile Card"
+                />
+            </a>
+        </p>
+        <h2></h2>
+        <p>
+            <a href="#" target="_blank">
+                <img
+            alt="Top Used Language"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=MaiKokain&hide_border=true&title_color=373e4d&text_color=3b4252"
+          />
+          <img
+            alt="GitHub Stats"
+            src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=MaiKokain&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"
+          />
+            </a>
+        </p>
+    </details>
 </p>
-
-
-### Languages And Tools
-
-<img align="left" src="https://camo.githubusercontent.com/973a118e690e810599bc0b9b3fcec3a314505b412e307e5eab8ff8a2211ddc14/68747470733a2f2f692e696d6775722e636f6d2f74594c465a42682e706e67" width="30px">
-<img align="left" src="https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico" width="30px"> <br />
-
----
-
-### 📈GitHub Stats
-
-![MaiKokain's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiKokain&show_icons=true&bg_color=30,e96443,904e95&hide=stars,contribs&icon_color=0f0f0f&title_color=0f0f0f)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiKokain&layout=compact&bg_color=30,e96443,904e95&hide=stars&icon_color=0f0f0f&title_color=0f0f0f&langs_count=5)
