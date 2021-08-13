@@ -26,6 +26,15 @@
           </p>
         </details>
         <h2></h2>
+        <details>
+            <summary align="center">PC Specs</summary>
+            <p align="center"> <img src="https://user-images.githubusercontent.com/71884625/129358657-cbccd02f-4a37-4a50-89d4-07de5095fa70.png" alt="PC-Specs-Image"> </p>
+            <p align="center">CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx</p>
+            <p align="center"> GPU: AMD Radeon(TM) Vega 8 Graphics </p>
+            <p align="center">Memory: 8GB DDR4 </p>
+            <p align="center">Storage: 256 GB SSD and 1TB HDD</p>
+        </details>
+        <h2></h2>
         <p align="center">
             <a href="httpS://discord.com/users/722647978577363026">
                 <img
