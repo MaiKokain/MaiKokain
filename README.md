@@ -22,7 +22,7 @@
           <p align="center">
               <samp>
                   &#128172;
-                  <a href="" target="_blank">Discord</a>
+                  <a href="https://discord.com/users/722647978577363026" target="_blank">Discord</a>
               </samp>
           </p>
         </details>
