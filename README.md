@@ -18,12 +18,10 @@
         </details>
         <h2></h2>
         <details>
-          <summary align="center">Contact</summary>
+          <summary align="center">Contact & Random URL</summary>
           <p align="center">
-              <samp>
-                  &#128172;
-                  <a href="https://discord.com/users/722647978577363026" target="_blank">Discord</a>
-              </samp>
+            <a href="https://discord.com/users/722647978577363026" target="_blank"><img src="https://img.shields.io/badge/discord-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=5865F2"></a>
+            <a href="https://anilist.com/user/muraico" target="_blacnk"><img src="https://img.shields.io/badge/AniList-%23323330.svg?&style=for-the-badge&logo=anilist&logoColor=02A9FF"></a>
           </p>
         </details>
         <h2></h2>
