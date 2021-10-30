@@ -1,4 +1,6 @@
 #### I Don't Know Shit
+---
+Rushia Simp
 
 <p align="center">
     <br />
