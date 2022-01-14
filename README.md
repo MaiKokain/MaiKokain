@@ -28,13 +28,13 @@ Rushia Simp
           </p>
         </details>
         <h2></h2>
-        <details>
+        <!-- <details>
             <summary align="center">PC Specs</summary>
             <p align="center">CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx</p>
             <p align="center"> GPU: AMD Radeon(TM) Vega 8 Graphics </p>
             <p align="center">Memory: 8GB DDR4 </p>
             <p align="center">Storage: 256 GB SSD and 1TB HDD</p>
-        </details>
+        </details> -->
         <h2></h2>
         <p align="center">
             <a href="httpS://discord.com/users/722647978577363026">
