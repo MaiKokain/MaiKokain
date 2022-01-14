@@ -27,7 +27,7 @@ Rushia Simp
             <a href="https://osu.ppy.sh/users/19955854" target="_blacnk"><img src="https://img.shields.io/badge/osu!-%23323330.svg?&style=for-the-badge&logo=osu!&logoColor=FF66AA"></a>
           </p>
         </details>
-        <h2></h2>
+        <!-- <h2></h2> -->
         <!-- <details>
             <summary align="center">PC Specs</summary>
             <p align="center">CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx</p>
