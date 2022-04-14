@@ -33,11 +33,11 @@ Rushia ~~simp~~ shrimp
   <a href="#" target="_blank">
       <img
   alt="Top Used Language"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&username=MaiKokain&hide_title=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&username=MaiKokain&hide_title=true&hide_border=true"
 />
 <img
   alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?theme=nord&username=MaiKokain&show_icons=true&count_private=true&hide_title=true"
+  src="https://github-readme-stats.vercel.app/api?theme=nord&username=MaiKokain&show_icons=true&count_private=true&hide_title=true&hide_border=true"
 />
   </a>
 </p>
