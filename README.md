@@ -10,7 +10,7 @@ Rushia ~~simp~~ shrimp
 <img src="https://img.shields.io/badge/node.js-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=339933">
 <img src="https://img.shields.io/badge/Mongo%20DB%20-%23323330.svg?&style=for-the-badge&logo=mongodb">
 <img src="https://img.shields.io/badge/VSCode/VSCodium-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
-<img src="https://img.shields.io/badge/MySQL-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=#4479A1">
+<!--- <img src="https://img.shields.io/badge/MySQL-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=#4479A1"> !--->
 <img src="https://img.shields.io/badge/Sequelize-%23323330.svg?&style=for-the-badge&logo=sequelize">
  
 ---
