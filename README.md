@@ -1,5 +1,5 @@
 # null
-programming languages written: C#, JavaScript/TypeScript, Java, Go, V, Rust, C, Crystal, Zig, Nim.
+have written shit using: C#, JavaScript/TypeScript, Java, Go, V, Rust, C, Crystal, Zig, Nim, Python
 
 ><b>Am i good at any of it?</b>
 > No
