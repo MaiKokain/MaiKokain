@@ -1,8 +1,4 @@
-# null
-have written shit using: C#, JavaScript/TypeScript, Java, Go, V, Rust, C, Crystal, Zig, Nim, Python
-
-#### <b>Am i good at any of it?</b>
-> No
+uhh i just make random stuff
 
 ### Help support me!
 **Crypto**
